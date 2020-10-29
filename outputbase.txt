@@ -1,8 +1,6 @@
-F  A ° John R Kasich Governor Donald J Petit Registrar Bmv Ex
-A 70Lo0  Driverlicense Bat
-Gi570
+Driverlicense
 Sno Ab123456
-12Doe
+Doe
 Jane
 8 123 Anywhere St
 Anytown Oh 12345
