@@ -9,7 +9,7 @@ It is most commonly used to verify the customer's identity in online banking and
 
 ## Code Requirements 
 
-The example code is in Python (version 3.6 or higher will work)
+The example code is in Python (version 3.6 or higher will work).
 
 ## Dependencies
 
